@@ -1,1 +1,2 @@
-# Investigacion-Operativa-Python
+# Operation Research
+## Inventorys
